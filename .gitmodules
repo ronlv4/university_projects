@@ -34,3 +34,6 @@
 [submodule "extended_lab/extended_lab_5"]
 	path = extended_lab/extended_lab_5
 	url = git@github.com:ronlv4/extended_lab_5.git
+[submodule "test_repo"]
+	path = test_repo
+	url = git@github.com:ronlv4/test_repo.git
