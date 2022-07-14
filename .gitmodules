@@ -1,0 +1,87 @@
+[submodule "extended_lab/extended_lab_1"]
+	path = extended_lab/extended_lab_1
+	url = git@github.com:ronlv4/extended_lab_1.git
+[submodule "extended_lab/extended_lab_2"]
+	path = extended_lab/extended_lab_2
+	url = git@github.com:ronlv4/extended_lab_2.git
+[submodule "extended_lab/extended_lab_3"]
+	path = extended_lab/extended_lab_3
+	url = git@github.com:ronlv4/extended_lab_3.git
+[submodule "extended_lab/extended_lab_4"]
+	path = extended_lab/extended_lab_4
+	url = git@github.com:ronlv4/extended_lab_4.git
+[submodule "extended_lab/extended_lab_5"]
+	path = extended_lab/extended_lab_5
+	url = git@github.com:ronlv4/extended_lab_5.git
+[submodule "extended_lab/extended_lab_6"]
+	path = extended_lab/extended_lab_6
+	url = git@github.com:ronlv4/extended_lab_6.git
+[submodule "extended_lab/extended_lab_8"]
+	path = extended_lab/extended_lab_8
+	url = git@github.com:ronlv4/extended_lab_8.git
+[submodule "extended_lab/extended_lab_9"]
+	path = extended_lab/extended_lab_9
+	url = git@github.com:ronlv4/extended_lab_9.git
+[submodule "ppl/ppl_assignment_1"]
+	path = ppl/ppl_assignment_1
+	url = git@github.com:ronlv4/ppl_assignment_1.git
+[submodule "ppl/ppl_assignment_2"]
+	path = ppl/ppl_assignment_2
+	url = git@github.com:ronlv4/ppl_assignment_2.git
+[submodule "ppl/ppl_assignment_3"]
+	path = ppl/ppl_assignment_3
+	url = git@github.com:ronlv4/ppl_assignment_3.git
+[submodule "ppl/ppl_assignment_4"]
+	path = ppl/ppl_assignment_4
+	url = git@github.com:ronlv4/ppl_assignment_4.git
+[submodule "ppl/ppl_assignment_5"]
+	path = ppl/ppl_assignment_5
+	url = git@github.com:ronlv4/ppl_assignment_5.git
+[submodule "spl/spl_assignment_1"]
+	path = spl/spl_assignment_1
+	url = git@github.com:ronlv4/spl_assignment_1.git
+[submodule "spl/spl_assignment_2"]
+	path = spl/spl_assignment_2
+	url = git@github.com:ronlv4/spl_assignment_2.git
+[submodule "spl/spl_assignment_3"]
+	path = spl/spl_assignment_3
+	url = git@github.com:ronlv4/spl_assignment_3.git
+[submodule "spl/spl_assignment_4"]
+	path = spl/spl_assignment_4
+	url = git@github.com:ronlv4/spl_assignment_4.git
+[submodule "computer_architecture/computer_architecture_0"]
+	path = computer_architecture/computer_architecture_0
+	url = git@github.com:ronlv4/computer_architecture_0.git
+[submodule "computer_architecture/computer_architecture_1"]
+	path = computer_architecture/computer_architecture_1
+	url = git@github.com:ronlv4/computer_architecture_1.git
+[submodule "computer_architecture/computer_architecture_2"]
+	path = computer_architecture/computer_architecture_2
+	url = git@github.com:ronlv4/computer_architecture_2.git
+[submodule "computer_architecture/computer_architecture_3"]
+	path = computer_architecture/computer_architecture_3
+	url = git@github.com:ronlv4/computer_architecture_3.git
+[submodule "dsp/dsp_assignment_1"]
+	path = dsp/dsp_assignment_1
+	url = git@github.com:ronlv4/dsp_assignment_1.git
+[submodule "dsp/dsp_assignment_2"]
+	path = dsp/dsp_assignment_2
+	url = git@github.com:ronlv4/dsp_assignment_2.git
+[submodule "dsp/dsp_assignment_3"]
+	path = dsp/dsp_assignment_3
+	url = git@github.com:ronlv4/dsp_assignment_3.git
+[submodule "intro_to_cs/Travelling-Salesman-Problem-SAT"]
+	path = intro_to_cs/Travelling-Salesman-Problem-SAT
+	url = git@github.com:ronlv4/Travelling-Salesman-Problem-SAT.git
+[submodule "intro_to_cs/Bank-Managment-System"]
+	path = intro_to_cs/Bank-Managment-System
+	url = git@github.com:ronlv4/Bank-Managment-System.git
+[submodule "intro_to_cs/Backtracking-BTree-and-AVLTree"]
+	path = intro_to_cs/Backtracking-BTree-and-AVLTree
+	url = git@github.com:ronlv4/Backtracking-BTree-and-AVLTree.git
+[submodule "intro_to_cs/Dynamic-Set-ADT"]
+	path = intro_to_cs/Dynamic-Set-ADT
+	url = git@github.com:ronlv4/Dynamic-Set-ADT.git
+[submodule "intro_to_cs/Miller-Rabin-Primality-Test"]
+	path = intro_to_cs/Miller-Rabin-Primality-Test
+	url = git@github.com:ronlv4/Miller-Rabin-Primality-Test.git
