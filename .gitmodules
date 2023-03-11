@@ -85,3 +85,6 @@
 [submodule "intro_to_cs/Miller-Rabin-Primality-Test"]
 	path = intro_to_cs/Miller-Rabin-Primality-Test
 	url = git@github.com:ronlv4/Miller-Rabin-Primality-Test.git
+[submodule "Compilation/SchemeCompiler"]
+	path = Compilation/SchemeCompiler
+	url = https://github.com/ronlv4/SchemeCompiler.git
